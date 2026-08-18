@@ -18,7 +18,6 @@ Download the PIAAC Cycle 2 U.S. dataset and place "prgusap2.csv" in the same dir
   generates the figures used in the report.
 - `project_test.py`: Tests data cleaning and preparation for the analyses.
 - `test_lit_data.csv`: Small dataset used by `project_test.py`.
-- `report.pdf`: Final project report.
 
 ## Running the Project
 
