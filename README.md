@@ -1,6 +1,6 @@
 # CSE 163 Final Project
 
-This project analyzes the OECD PIAAC Cycle 2 dataset to examine relationships betwen literacy, reading behaviors, income, education, and occupational skill.
+This project analyzes the OECD PIAAC Cycle 2 dataset to examine relationships between literacy, reading behaviors, income, education, and occupational skill.
 
 ## Setup
 
